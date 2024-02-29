@@ -1,0 +1,26 @@
+
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+ 
+}
+
+  
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(14, 88, 6, 0.131);
+    background-image:url(../resources/texture.jpg);
+    background-repeat: repeat-y;
+    filter: blur();
+   
+}
